@@ -6,7 +6,7 @@ h5{
     font-size: 18pt;
     text-align: left;
     max-width: fit-content;
-
+    text-decoration: underline;
 
 }
 h3{
@@ -17,7 +17,7 @@ h3{
     font-size: 22pt;
     margin-left: 25%;
     max-width: fit-content;
-
+    text-decoration: underline;
 }
 body{
     background-color: darkslategrey;

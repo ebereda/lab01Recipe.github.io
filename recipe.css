@@ -9,6 +9,9 @@ h5{
     text-decoration: underline;
 
 }
+.li{
+    text-decoration: line-through;
+}
 h3{
     color: #A4A400 ;
     background-color: #F0F0F0 ;
